@@ -1,6 +1,5 @@
 module.exports.setUserDetails = setUserDetails;
 
-
 let user = {
     username: "", 
     password: "", 
